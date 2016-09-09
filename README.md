@@ -1,16 +1,16 @@
-# Assignment1
-First Step Giant leap for mankind
+Official Readme for Assigment 1
+-------------------------------
 
-Output a string in a pyramid, with increasing letters (forwards and backwards)
-eg -  (for a string "hello")
+ABOUT: Assignment 1 deals with printing a string like a pyramid, with each successive line having one more character than the previous.
+------
 
-h
-he
-hel
-hell
-hello
-o
-ol
-oll
-olle
-olleh
+PROCEDURE: There are multiple ways to go about it, but in general, one must adhere to using conditional loops. 
+----------
+	   Procedure 1: Brute Force
+			Writing code for printing each line of the output.
+			
+	   Procedure 2: Loops
+			Writing code for a general iteration.
+
+COPYRIGHT : SAMARTH GUPTA
+-------------------------
